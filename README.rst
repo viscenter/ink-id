@@ -4,6 +4,10 @@
 
 ``inkid`` is a Python package and collection of scripts for identifying ink in a document via machine learning.
 
+From:
+"From invisibility to readability: Recovering the ink of Herculaneum",
+Parker CS, Parsons S, Bandy J, Chapman C, Coppens F, et al. (2019) From invisibility to readability: Recovering the ink of Herculaneum. PLOS ONE 14(5): e0215775. https://doi.org/10.1371/journal.pone.0215775
+
 Requirements
 ============
 
