@@ -2,6 +2,10 @@
  ink-id
 ========
 
+######
+NOTE: This repository is the reference implementation for the paper listed below. For the latest version of ink-id, please visit our `GitLab repository <https://gitlab.com/educelab/ink-id>`_.
+######
+
 ``inkid`` is a Python package and collection of scripts for identifying ink in a document via machine learning.
 
 From:
